@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\drawable_bluelock.png.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\drawable\\bluelock.png"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\layout_listview_detail.xml.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\layout\\listview_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\drawable_monster.jpg.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\drawable\\monster.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\drawable_luoxiaohei.jpg.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\drawable\\luoxiaohei.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\drawable_sakamoto.jpg.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\drawable\\sakamoto.jpg"
+    },
+    {
+        "merged": "com.example.myproject.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.myproject.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\drawable_hunter.jpg.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\drawable\\hunter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\drawable_evilring.jpg.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\drawable\\evilring.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myproject.app-debug-31:/layout_activity_manga_detail.xml.flat",
+        "source": "com.example.myproject.app-main-33:/layout/activity_manga_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\layout_activity_listview.xml.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\drawable_naruto.jpg.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\drawable\\naruto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\layout_activity_manga_detail.xml.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\layout\\activity_manga_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\drawable_spyfamily.jpg.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\drawable\\spyfamily.jpg"
+    },
+    {
+        "merged": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hongyue\\.gradle\\daemon\\8.4\\com.example.myproject.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]

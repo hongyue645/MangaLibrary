@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="novelDescription">
+        <item>"Luo Xiaohei's War Record" Junqing Chapter~~ tells the story of Laojun, Xuanli and Qingning during the war years. Show you</item>
+        <item>In Japan, where monsters have the highest rate of monsters, monsters ruthlessly ravage the country and trample on people\'s daily lives</item>
+        <item>In order to infiltrate a prestigious school, the most powerful spy in the Western Country is ordered to start a family</item>
+        <item>There was once a legendary strongest killer, his name was Taro Sakamoto. All the wicked feared him, and all the killers</item>
+        <item>18 years ago, there was a prophecy that a black-ringed inferior teenager would rewrite the rules of survival in the world of superpowers. The only remaining "god-level" descendant, Sugizuki,</item>
+        <item>In 2018, Japan lost to the round of 16 in the World Cup, and in order to develop a "shooter" who can break this deadlock, the Japan Football League </item>
+        <item>The protagonist Jay Fulix grew up on Whale Island and was accompanied by Aunt Mitt and Grandma. He has a cheerful personality and has a spirituality that allows him to communicate with animals. </item>
+        <item>Naruto Uzumaki\'s orphan life began, and his parents sealed the nine-tailed demon fox that attacked the village into his body in order to protect the village, </item>
+    </string-array>
+    <string-array name="novelName">
+        <item>The Legend of Luoxiaohei</item>
+        <item>Monster No.8</item>
+        <item>Spy Family</item>
+        <item>Sakamoto days</item>
+        <item>Evil Ring</item>
+        <item>Bluelock</item>
+        <item>Hunter</item>
+        <item>Naruto</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyProject</string>
+    <style name="Base.Theme.MyProject" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyProject" parent="Base.Theme.MyProject"/>
+</resources>
